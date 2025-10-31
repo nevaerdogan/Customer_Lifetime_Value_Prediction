@@ -127,3 +127,4 @@ flo-cltv-prediction/
 
 
 
+Neva Erdogan 🔗 www.linkedin.com/in/nevaerdogan
